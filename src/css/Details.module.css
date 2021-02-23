@@ -5,12 +5,13 @@
 }
 
 .container {
-  border: 1px solid #ffcb05;
+  border: 1px dashed #669acc;
   border-radius: 10px;
   width: 65%;
   margin: 40px auto;
+  background: #ffcb05;
   padding: 15px;
-  box-shadow: 12px 12px 2px 1px rgba(152, 152, 248, 0.2);
+  box-shadow: 12px 12px 2px 1px rgb(152 152 248 / 20%);
 }
 
 .image {
