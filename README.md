@@ -1,4 +1,4 @@
-# Bookstore
+# Pokemon Catalogue
 
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
@@ -24,15 +24,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Temmarie/Bookstore/">
+  <a href="https://github.com/Temmarie/React-capstone/">
    </a>
 
-  <h3 align="center">Bookstore</h3>
+  <h3 align="center">Pokemon catalogue</h3>
 
   <p align="center">
-    <a href="https://github.com/Temmarie/Bookstore/issues">Report Bug</a>
+    <a href="https://github.com/Temmarie/React-capstone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Temmarie/Bookstore/issues">Request Feature</a>
+    <a href="https://github.com/Temmarie/React-capstone/issues">Request Feature</a>
   </p>
 </p>
 
@@ -51,7 +51,7 @@
 
 # About The Project
 
-This is a simple bookstore app built with react-redux.
+This is a simple pokemon catalogue built with react-redux.
 <br />
 
 # [Live Link](https://bookstore-97529.web.app)
@@ -84,7 +84,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Temmarie/Bookstore.git
+git clone https://github.com/Temmarie/React-capstone.git
 ```
 
 2. Open with your favorite text editor.
@@ -117,15 +117,16 @@ Give a ⭐️ if you like this project!!
 ## Acknowledgements
 
 - Special thanks to [Microverse](https://www.microverse).
+- [Denys Chagaida](https://www.behance.net/chagaida) - Original designer
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/temmarie/bookstore.svg?style=flat-square
-[contributors-url]: https://github.com/temmarie/https://github.com/temmarie/bookstore.git/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/temmarie/bookstore.svg?style=flat-square
-[forks-url]: https://github.com/temmarie/bookstore/network/members
-[stars-shield]: https://img.shields.io/github/stars/temmarie/bookstore.svg?style=flat-square
-[stars-url]: https://github.com/temmarie/bookstore/stargazers
-[issues-shield]: https://img.shields.io/github/issues/temmarie/bookstore.svg?style=flat-square
-[issues-url]: https://github.com/temmarie/bookstore/issues
+[contributors-shield]: https://img.shields.io/github/contributors/temmarie/react-capstone.svg?style=flat-square
+[contributors-url]: https://github.com/temmarie/https://github.com/temmarie/react-capstone.git/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/temmarie/react-capstone.svg?style=flat-square
+[forks-url]: https://github.com/temmarie/react-capstone/network/members
+[stars-shield]: https://img.shields.io/github/stars/temmarie/react-capstone.svg?style=flat-square
+[stars-url]: https://github.com/temmarie/react-capstone/stargazers
+[issues-shield]: https://img.shields.io/github/issues/temmarie/react-capstone.svg?style=flat-square
+[issues-url]: https://github.com/temmarie/react-capstone/issues
