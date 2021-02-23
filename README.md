@@ -54,6 +54,14 @@
 This is a simple pokemon catalogue built with react-redux.
 <br />
 
+## catalogue-page
+
+![catalogue-list]()
+
+## details-page
+
+![details-page]()
+
 ### [Live Link](https://pokemons-catalogue.web.app/)
 
 ## Built With
