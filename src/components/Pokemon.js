@@ -11,7 +11,7 @@ const Pokemon = ({ pokemons }) => {
       <img src={Pokeball} alt="pokemon ball" className="pokeball" />
       <div className={app.pokeBtn}>
         <Link to={`/pokemons/${pokemon.name}`}>
-          <button type="button">Open Pokemon</button>
+          <button type="button">Open PoKéMoN</button>
         </Link>
       </div>
     </div>

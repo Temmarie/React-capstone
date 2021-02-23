@@ -5,9 +5,9 @@ import Filter from '../container/Filter';
 
 const Navbar = () => (
   <nav className={navbar.navbar}>
-    <h1>POKEMONS</h1>
+    <h1>PoKéMoN</h1>
     <div className={navbar.right}>
-      <div><Link to="/">All Pokemons</Link></div>
+      <div><Link to="/">All PoKéMoNs</Link></div>
       <Filter />
     </div>
   </nav>
