@@ -54,7 +54,7 @@
 This is a simple pokemon catalogue built with react-redux.
 <br />
 
-# [Live Link](https://bookstore-97529.web.app)
+### [Live Link](https://pokemons-catalogue.web.app/)
 
 ## Built With
 
