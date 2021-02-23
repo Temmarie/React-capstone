@@ -20,6 +20,7 @@
   overflow: hidden;
   font-family: Pokemon;
   color: #669acc;
+  border: 2px dotted #669acc;
   text-transform: uppercase;
 }
 

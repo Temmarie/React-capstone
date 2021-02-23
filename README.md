@@ -1,70 +1,131 @@
-# Getting Started with Create React App
+# Bookstore
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the repo and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-## Available Scripts
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-In the project directory, you can run:
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-### `yarn start`
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Temmarie/Bookstore/">
+   </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <h3 align="center">Bookstore</h3>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <p align="center">
+    <a href="https://github.com/Temmarie/Bookstore/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Temmarie/Bookstore/issues">Request Feature</a>
+  </p>
+</p>
 
-### `yarn test`
+<!-- TABLE OF CONTENTS -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Table of Contents
 
-### `yarn build`
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Tests](#tests)
+- [Contact](#Authors)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# About The Project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is a simple bookstore app built with react-redux.
+<br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# [Live Link](https://bookstore-97529.web.app)
 
-### `yarn eject`
+## Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [WebPack](https://webpack.js.org/)
+- [Jest](https://jestjs.io/docs/en/getting-started)
+- [ReactJs](https://reactjs.org/)
+- [prop-types library](https://www.npmjs.com/package/prop-types)
+- [firebase](https://firebase.google.com/)
+- [redux](https://redux.js.org/introduction/getting-started)
+<hr>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- GETTING STARTED -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Getting Started
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+To get a local copy up and running follow these simple steps.
 
-## Learn More
+### Prerequisites
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Make sure your machine has `node` and `npm` packages installed.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
 
-### Code Splitting
+1. Clone the repo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```sh
+git clone https://github.com/Temmarie/Bookstore.git
+```
 
-### Analyzing the Bundle Size
+2. Open with your favorite text editor.
+3. run `npm install` to install all dependencies required for the app.
+4. then, run `npm start`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Author
 
-### Making a Progressive Web App
+👤 **Author**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Github: [@temmarie](https://github.com/temmarie)
+- Twitter: [@TemmarieW](https://twitter.com/TemmarieW)
+- Linkedin: [Grace Tife Ekunola](https://www.linkedin.com/in/ekunola-grace/)
 
-### Advanced Configuration
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions, issues and feature requests are welcome! Start by:
 
-### Deployment
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contribution
+- Push your branch up to your forked repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Show your support
 
-### `yarn build` fails to minify
+Give a ⭐️ if you like this project!!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgements
+
+- Special thanks to [Microverse](https://www.microverse).
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/temmarie/bookstore.svg?style=flat-square
+[contributors-url]: https://github.com/temmarie/https://github.com/temmarie/bookstore.git/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/temmarie/bookstore.svg?style=flat-square
+[forks-url]: https://github.com/temmarie/bookstore/network/members
+[stars-shield]: https://img.shields.io/github/stars/temmarie/bookstore.svg?style=flat-square
+[stars-url]: https://github.com/temmarie/bookstore/stargazers
+[issues-shield]: https://img.shields.io/github/issues/temmarie/bookstore.svg?style=flat-square
+[issues-url]: https://github.com/temmarie/bookstore/issues
