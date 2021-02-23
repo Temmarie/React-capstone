@@ -56,11 +56,11 @@ This is a simple pokemon catalogue built with react-redux.
 
 ## catalogue-page
 
-![catalogue-list]()
+![catalogue-list](https://github.com/Temmarie/React-capstone/blob/catalogue/src/img/Screenshot%20(97).png)
 
 ## details-page
 
-![details-page]()
+![details-page](https://github.com/Temmarie/React-capstone/blob/catalogue/src/img/Screenshot%20(98).png)
 
 ### [Live Link](https://pokemons-catalogue.web.app/)
 
