@@ -51,7 +51,7 @@
 
 # About The Project
 
-This is a simple pokemon catalogue built with react-redux.
+This is a simple pokemon catalogue built with react-redux. It is a Single-Page-Application which fetches data from [PokeApi](https://pokeapi.co/) and stores it in the Redux store, then displays it on the website. The website has 2 pages using a route with the first page showing a list of Pokemons and the second page shows the details and information about a particular pokemon.
 <br />
 
 ## catalogue-page
