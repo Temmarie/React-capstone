@@ -1,6 +1,3 @@
-/* eslint-disable react/prop-types */
-/* eslint-disable react/destructuring-assignment */
-/* eslint-disable prefer-destructuring */
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
@@ -14,7 +11,7 @@ import { getOnePokemon, getPokemonPending } from '../reducers/pokeReducer';
 class PokeDetails extends Component {
   componentDidMount() {
     const { fetchPokemon } = this.props;
-    const name = this.props.match.params.name;
+    const { name } = this.props.match.params;
     fetchPokemon(name);
   }
 
