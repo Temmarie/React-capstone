@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Pokemon-hollow";
+  src: url(../css/fonts/Pokemon\ Hollow.ttf);
+  font-style: normal;
+}
+
+.navbar {
+  padding: 5px;
+  font-family: Pokemon-hollow;
+  background-color: #ffcb05;
+  position: relative;
+  height: 100px;
+}
+
+.navbar h1 {
+  font-size: 40px;
+  margin-top: 0em;
+  color: #3d7dca;
+  padding-left: 100px;
+}
+
+.right {
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  position: absolute;
+  right: 130px;
+  top: 56px;
+}
+
+.right a {
+  color: #3d7dca;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.navbar {
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  margin-top: -150px;
+}

@@ -1,0 +1,94 @@
+@font-face {
+  font-family: "Pokemon-hollow";
+  src: url(../css/fonts/Pokemon\ Hollow.ttf);
+  font-style: normal;
+}
+
+.container {
+  border: 1px dashed #669acc;
+  border-radius: 10px;
+  width: 65%;
+  margin: 40px auto;
+  background: #ffcb05;
+  padding: 15px;
+  box-shadow: 12px 12px 2px 1px rgb(152 152 248 / 20%);
+}
+
+.image {
+  height: 200px;
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image img {
+  width: 200px;
+  height: 200px;
+}
+
+.name {
+  text-align: center;
+}
+
+.height {
+  font-family: Pokemon;
+  color: #3d7dca;
+  text-align: center;
+}
+
+.abilities {
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  font-family: Pokemon;
+  color: #3d7dca;
+}
+
+span {
+  text-transform: uppercase;
+  padding-left: 4px;
+  font-family: Pokemon;
+  color: #3d7dca;
+}
+
+.back {
+  width: 10%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.back a {
+  color: #669acc;
+  text-decoration: none;
+  font-family: Pokemon;
+}
+
+.back a:hover {
+  text-decoration: underline;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #ffcb05;
+}
+
+.filter {
+  outline: none;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+.filter::placeholder {
+  font-family: Pokemon-hollow;
+  color: #669acc;
+  font-weight: 800;
+}
